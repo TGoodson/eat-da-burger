@@ -8,19 +8,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/angrbrd/eat-da-burger.git"
+    "url": "git+https://github.com/TGoodson/eat-da-burger.git"
   },
   "keywords": [
     "burgers",
     "eating",
     "burgerfi"
   ],
-  "author": "Anna D Derbakova",
+  "author": "Trevon Goodson",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/angrbrd/eat-da-burger/issues"
+    "url": "https://github.com/TGoodson/eat-da-burger/issues"
   },
-  "homepage": "https://github.com/angrbrd/eat-da-burger#readme",
+  "homepage": "https://github.com/TGoodson/eat-da-burger#readme",
   "dependencies": {
     "body-parser": "^1.17.1",
     "express": "^4.15.2",
